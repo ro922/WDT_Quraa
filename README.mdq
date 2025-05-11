@@ -49,6 +49,7 @@ Stable internet connection
 8. Import the `quraa_db` database file from the downloaded project files
 9. In the URL bar, type: localhost/Quraa-WDT-Main
 10. Log in and start using the web application
+11.Note: You must enter a 6-digit password.
 
 ## Features:
 - Real-time reading correction
